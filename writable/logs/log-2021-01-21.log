@@ -1,0 +1,111 @@
+CRITICAL - 2021-01-21 07:25:31 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+#0 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#1 C:\xampp\htdocs\framework\app\Controllers\Pro.php(105): view('tabla', Array)
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-21 07:26:02 --> Undefined variable: key
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(105): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-21 07:28:08 --> Call to undefined function sessio()
+#0 C:\xampp\htdocs\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#2 C:\xampp\htdocs\framework\app\Controllers\Pro.php(105): view('tabla', Array)
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-01-21 07:30:36 --> Undefined variable: key
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(105): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-21 07:39:07 --> Undefined variable: key
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(105): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-21 07:39:35 --> Undefined variable: key
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(105): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-21 07:39:47 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(105): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-21 08:39:52 --> Undefined offset: 0
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(151): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 151, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->validar()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-21 08:41:56 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\login.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('login', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(129): view('login')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->login()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-21 08:42:04 --> Undefined offset: 0
+#0 C:\xampp\htdocs\framework\app\Views\actualizar.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 2, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('actualizar', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(82): view('actualizar', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('a')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-21 08:42:20 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\login.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('login', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(129): view('login')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->login()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-21 13:31:38 --> Undefined offset: 0
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(151): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 151, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->validar()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

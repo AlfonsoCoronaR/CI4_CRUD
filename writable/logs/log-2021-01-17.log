@@ -1,0 +1,29 @@
+CRITICAL - 2021-01-17 18:05:47 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::tabla()
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(69): App\Models\Crudmodel->eliminar(Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->eliminar('23')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-17 18:06:17 --> Undefined variable: idNombre
+#0 C:\xampp\htdocs\framework\app\Models\Crudmodel.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\framework\app\Controllers\Pro.php(69): App\Models\Crudmodel->eliminar(Array)
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->eliminar('1')
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-17 18:07:48 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->eliminar('21')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-17 18:24:45 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->eliminar('5')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

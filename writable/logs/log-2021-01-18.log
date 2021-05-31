@@ -1,0 +1,238 @@
+CRITICAL - 2021-01-18 18:03:04 --> Undefined variable: idNombre
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(80): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 18:03:44 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(80): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 18:10:35 --> Undefined index: nombre
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(80): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-18 18:12:34 --> Undefined index: nombre
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(80): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-18 18:12:57 --> Undefined index: nombre
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(80): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-18 19:34:35 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(81): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 19:34:44 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(81): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 19:37:08 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(81): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 19:39:30 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(81): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 19:43:00 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(81): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 19:45:40 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(81): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 19:48:42 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(90): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 19:49:18 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(90): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 19:59:19 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(90): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 20:02:24 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:02:51 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 2 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:07:42 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:17:43 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:22:29 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:22:30 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:23:07 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:23:27 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:24:45 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:25:52 --> Too few arguments to function App\Controllers\Pro::tabla(), 0 passed in C:\xampp\htdocs\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-18 20:26:52 --> Too few arguments to function App\Models\Crudmodel::tabla(), 0 passed in C:\xampp\htdocs\framework\app\Controllers\Pro.php on line 80 and exactly 1 expected
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(80): App\Models\Crudmodel->tabla()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-18 20:27:25 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(90): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 20:31:19 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(90): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 20:36:38 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(90): view('tabla')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-18 21:00:23 --> Undefined variable: id_nombre
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(90): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

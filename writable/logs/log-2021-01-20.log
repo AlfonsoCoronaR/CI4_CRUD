@@ -1,0 +1,125 @@
+CRITICAL - 2021-01-20 15:07:23 --> Undefined index: nombre
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 125, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->validar()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 19:17:51 --> Undefined index: $2y$10$vJwHpuQ5Cg1X57UGJAU69O2WcsKHfs.XwKHrwW6MKe93WHB2tqU.G
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->nuevoUsuario()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 19:22:20 --> Call to undefined function App\Controllers\passwordHash()
+#0 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->nuevoUsuario()
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-20 19:27:40 --> Undefined variable: Crud
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->nuevoUsuario()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 19:27:57 --> password_hash() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'password_hash()...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework\app\Controllers\Pro.php(42): password_hash(Array, '2y')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->nuevoUsuario()
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-20 19:41:54 --> password_hash() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'password_hash()...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework\app\Controllers\Pro.php(42): password_hash(Array, '2y')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->nuevoUsuario()
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-01-20 20:18:13 --> Undefined variable: Nombre
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->nuevoUsuario()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 20:25:30 --> Undefined variable: arreglo
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->nuevoUsuario()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 22:03:33 --> Call to undefined function App\Filters\sesson()
+#0 C:\xampp\htdocs\framework\system\Filters\Filters.php(173): App\Filters\SesionAdmin->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('tabla', 'before')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-20 22:03:42 --> Call to undefined function App\Filters\sessin()
+#0 C:\xampp\htdocs\framework\system\Filters\Filters.php(173): App\Filters\SesionAdmin->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('tabla', 'before')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-20 22:51:42 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp\htdocs\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+#3 C:\xampp\htdocs\framework\system\Config\Services.php(322): spl_autoload_call('Config\\Filters')
+#4 C:\xampp\htdocs\framework\system\Config\BaseService.php(123): CodeIgniter\Config\Services::filters(NULL, false)
+#5 C:\xampp\htdocs\framework\system\Config\Services.php(317): CodeIgniter\Config\BaseService::getSharedInstance('filters', NULL)
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(367): CodeIgniter\Config\Services::filters()
+#7 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-01-20 23:13:52 --> Undefined variable: data
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(148): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 148, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->validar()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 23:14:50 --> Undefined variable: data
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(148): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 148, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->validar()
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 23:33:02 --> Undefined property: stdClass::$Nnombre
+#0 C:\xampp\htdocs\framework\app\Views\tabla.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('tabla', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(105): view('tabla', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->tabla()
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-20 23:33:51 --> Undefined variable: Nombre
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 73, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('admin')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 23:33:57 --> Undefined variable: Nombre
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 73, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('admin')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-20 23:34:23 --> Undefined variable: Nombre
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(73): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 73, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('admin')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

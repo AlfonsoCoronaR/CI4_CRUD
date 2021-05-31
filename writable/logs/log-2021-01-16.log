@@ -1,0 +1,250 @@
+CRITICAL - 2021-01-16 21:06:42 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(49): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:07:44 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(49): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:08:41 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(49): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:09:30 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(49): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:09:42 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(49): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:27:24 --> Use of undefined constant paterno - assumed 'paterno' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\framework\app\Views\actualizar.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('actualizar', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(49): view('actualizar', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:44:03 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(63): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:44:41 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(64): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:45:27 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(65): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:54:32 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(64): view('estructura/foot...')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:57:37 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\actualizar.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('actualizar', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(64): view('actualizar')
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 21:59:07 --> Undefined variable: info
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 63, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 21:59:24 --> Undefined variable: info
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 63, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 21:59:43 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 64, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 22:03:15 --> Undefined variable: info
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 63, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 22:07:52 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(68): view('estructura/foot...', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 22:08:55 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 63, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 22:09:53 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(69): view('estructura/foot...', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 22:10:00 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(69): view('estructura/foot...', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 22:16:37 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(65): view('estructura/foot...', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 22:17:28 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Views\estructura\footer.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('estructura/foot...', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(64): view('estructura/foot...', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 22:25:18 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework\app\Controllers\Pro.php on line 64
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(64): view('estructura/foot...', NULL)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 22:26:17 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework\app\Controllers\Pro.php on line 64
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(64): view('estructura/foot...', NULL)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 22:29:05 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\actualizar.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('actualizar', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(70): view('actualizar', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 22:35:54 --> Undefined variable: datos
+#0 C:\xampp\htdocs\framework\app\Views\actualizar.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2, Array)
+#1 C:\xampp\htdocs\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework\system\Common.php(1119): CodeIgniter\View\View->render('actualizar', Array, true)
+#3 C:\xampp\htdocs\framework\app\Controllers\Pro.php(70): view('actualizar', Array)
+#4 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#5 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#6 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-01-16 22:42:36 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 22:43:20 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 22:46:16 --> Undefined variable: mensaje
+#0 C:\xampp\htdocs\framework\app\Controllers\Pro.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\framework\system\CodeIgniter.php(918): App\Controllers\Pro->obtenerDatos('1')
+#2 C:\xampp\htdocs\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pro))
+#3 C:\xampp\htdocs\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
